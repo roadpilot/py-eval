@@ -1,0 +1,1 @@
+# parse list of commands from input and execute the commands
